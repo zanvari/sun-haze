@@ -1,4 +1,4 @@
-# Sun-Haze Dataset for Single Image Dehzing
+# Sun-Haze Dataset for Benchmarking Single Image Dehzing Methods
 *Sun-Haze dataset* is a benchmark dataset for single image dehazing that include 107 hazy images with realistic sunlight haze. Since the ground truth of a hazy image could be a range of clean images, this dataset include 6 ground truth images (one original image plus 5 images retouched by 5 experts) per each hazy image to provide the opportunity to test image dehazing methods in a more practical way. This dataset is built on top of MIT-FiveK dataset.
 
 # Publication
