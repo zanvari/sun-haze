@@ -1,10 +1,10 @@
-# Sun-Haze
+# Sun-Haze Dataset for Single Image Dehzing
 Evaluating Single Image Dehazing Methods Under Realistic Sunlight Haze
 
 Sun-Haze dataset is a benchmark dataset for signle image dehazing that include hazy images with realistic sunlight haze.
 
 # Publication
-Evaluating Single Image Dehazing Methods Under Realistic Sunlight Haze,Zahra Anvariand VassilisAthitsos, In proceeding of 15th International Symposium on Visual Computing, San Diego, CA, 2020.
+**Evaluating Single Image Dehazing Methods Under Realistic Sunlight Haze**,Zahra Anvariand VassilisAthitsos, In proceeding of 15th International Symposium on Visual Computing, San Diego, CA, 2020.
 
 If you use this dataset, please cite our paper:
 
@@ -14,3 +14,4 @@ If you use this dataset, please cite our paper:
     journal={arXiv preprint arXiv:2008.13377},
     year={2020}
   }
+
