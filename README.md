@@ -5,7 +5,7 @@
 Sun-Haze dataset is available [here](https://drive.google.com/file/d/1j4jV03ExUhIPYg-RYhr5mrUCyJwH0cQw/view?usp=sharingg).
 
 # Publication
-If you find this dataset useful for you, please cite:
+If you find this work useful for you, please cite:
 
     @article{anvari2020evaluating,
       title={Evaluating Single Image Dehazing Methods Under Realistic Sunlight Haze},
