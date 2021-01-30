@@ -7,10 +7,12 @@ Sun-Haze dataset is available [here](https://drive.google.com/file/d/1j4jV03ExUh
 # Publication
 If you find this work useful for you, please cite:
 
-    @article{anvari2020evaluating,
+    @inproceedings{anvari2020evaluating,
       title={Evaluating Single Image Dehazing Methods Under Realistic Sunlight Haze},
       author={Anvari, Zahra and Athitsos, Vassilis},
-      journal={arXiv preprint arXiv:2008.13377},
-      year={2020}
+      booktitle={International Symposium on Visual Computing},
+      pages={436--447},
+      year={2020},
+      organization={Springer}
     }
 
