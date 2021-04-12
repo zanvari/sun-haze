@@ -6,7 +6,12 @@ Sun-Haze dataset is available [here](https://drive.google.com/file/d/1j4jV03ExUh
 
 # Analysis Results
 
+## Quatitative Results
+
 ![alt text](https://github.com/zanvari/sun-haze/blob/main/figs/results.png?raw=true)
+
+## Qualitative Results
+![alt text](https://github.com/zanvari/sun-haze/blob/main/figs/results-images.png?raw=true)
 
 # Publication
 If you find this work useful for you, please cite:
