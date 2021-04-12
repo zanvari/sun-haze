@@ -6,7 +6,7 @@ Sun-Haze dataset is available [here](https://drive.google.com/file/d/1j4jV03ExUh
 
 # Analysis Results
 
-![alt text](https://github.com/zanvari/sun-haze/figs/results.png?raw=true)
+![alt text](https://github.com/zanvari/sun-haze/blob/main/figs/results.png?raw=true)
 
 # Publication
 If you find this work useful for you, please cite:
