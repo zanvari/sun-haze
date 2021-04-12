@@ -4,6 +4,10 @@
 # Dataset 
 Sun-Haze dataset is available [here](https://drive.google.com/file/d/1j4jV03ExUhIPYg-RYhr5mrUCyJwH0cQw/view?usp=sharingg).
 
+# Analysis Results
+
+![alt text](https://github.com/zanvari/sun-haze/figs/results.png?raw=true)
+
 # Publication
 If you find this work useful for you, please cite:
 
